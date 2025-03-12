@@ -1,1 +1,1 @@
-test git in new branch
+test git conflict
